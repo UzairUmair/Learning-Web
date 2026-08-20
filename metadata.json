@@ -1,0 +1,6 @@
+{
+  "name": "CodePath Academy",
+  "description": "Interactive web development learning platform for mastering HTML, CSS, and JavaScript with structured lessons, live code playground, quizzes, coding challenges, projects, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
